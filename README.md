@@ -73,5 +73,8 @@ Open your browser at `http://localhost:5173`.
 * `/userimages` - Locally saved images fetched from Bing.
 * `user-data.json` - Your local database of tracked, known, and ignored words.
 
+## 🙏 Acknowledgements
+This project is an advanced fork and expansion of the original [vocab-curve](https://github.com/acheronex/vocab-curve) created by acheronex.
+
 ## 📜 License
 MIT
