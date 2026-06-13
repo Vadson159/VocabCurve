@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+cache/
+userimages/
+user-data.json
+*.pyc
+.env
+.DS_Store
+Rubbish/
+tmp/
+*.pid
+vocabcurve_log.txt

@@ -1,0 +1,28 @@
+{
+  "name": "extensive-reader",
+  "version": "0.1.0",
+  "description": "Universal text analysis pipeline for language learners — word frequency, vocabulary progression, and interactive visualization",
+  "type": "module",
+  "scripts": {
+    "analyze": "tsx src/cli.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "epub2": "^3.0.2",
+    "js-yaml": "^4.1.0",
+    "mammoth": "^1.12.0",
+    "pdf-parse": "1.1.1",
+    "snowball-stemmers": "^0.6.0",
+    "xml2js": "^0.6.2",
+    "youtube-captions-scraper": "^2.0.3",
+    "youtube-transcript": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/epub": "^0.0.11",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.0.0",
+    "@types/xml2js": "^0.4.14",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
