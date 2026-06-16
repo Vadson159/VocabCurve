@@ -78,3 +78,9 @@ This project is an advanced fork and expansion of the original [vocab-curve](htt
 
 ## 📜 License
 MIT
+
+---
+## Support
+If you find this project helpful, consider supporting its development:
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/vadson)
